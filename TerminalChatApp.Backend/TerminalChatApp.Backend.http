@@ -1,0 +1,6 @@
+@TerminalChatApp.Backend_HostAddress = http://localhost:5076
+
+GET {{TerminalChatApp.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

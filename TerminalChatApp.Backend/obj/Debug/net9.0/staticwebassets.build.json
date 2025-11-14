@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "21Kpao+jEPL4xuPMlPgsERUgNVcOpBatqq9kLvK5L+U=",
+  "Source": "TerminalChatApp.Backend",
+  "BasePath": "_content/TerminalChatApp.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
